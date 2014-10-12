@@ -14,8 +14,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
  
         println("test")
-        var a = 22222
+        var a = 222227
         println(a)
+
 
     }
     
